@@ -20,4 +20,6 @@
 * https://gist.github.com/netj/8836201
 * https://towardsdatascience.com/how-to-use-python-and-missforest-algorithm-to-impute-missing-data-ed45eb47cb9a
 * Libro "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent" di Aurélien Géron
+* https://github.com/riccardotenuta/emotion_recognition
+
 
