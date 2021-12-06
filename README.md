@@ -18,7 +18,7 @@
 * https://www.ibm.com/cloud/learn/random-forest
 * Libro "Machine Learning con Python" di Sebastian Raschka 
 
-#### Pratica
+### Pratica
 * https://gist.github.com/netj/8836201
 * https://towardsdatascience.com/how-to-use-python-and-missforest-algorithm-to-impute-missing-data-ed45eb47cb9a
 * https://www.datacamp.com/community/tutorials/random-forests-classifier-python
