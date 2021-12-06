@@ -10,18 +10,25 @@
 ## References
 
 ### Random Forest
-#### Teoria
-* https://towardsdatascience.com/missforest-the-best-missing-data-imputation-algorithm-4d01182aed3
-* https://netai.it/cose-un-modello-random-forest/#page-content
-* https://www.lorenzogovoni.com/random-forest/
-* https://it.livingeconomyadvisors.com/1529-what-is-bagging-bootstrap-aggregation
-* https://www.ibm.com/cloud/learn/random-forest
+#### Metodi ensemble
+* [andreaminini.com](https://www.andreaminini.com/ai/machine-learning/ensemble-learning)
+#### Bagging
+* [livingeconomyadvisors.com](https://it.livingeconomyadvisors.com/1529-what-is-bagging-bootstrap-aggregation)
+#### Introduzione, funzionamento
+* [ibm.com](https://www.ibm.com/cloud/learn/random-forest)
+* [lorenzogovoni.com](https://www.lorenzogovoni.com/random-forest/)
+* [netai.it](https://netai.it/cose-un-modello-random-forest/#page-content)
 * Libro "Machine Learning con Python" di Sebastian Raschka 
+#### MissForest
+* [towardsdatascience.com](https://towardsdatascience.com/missforest-the-best-missing-data-imputation-algorithm-4d01182aed3)
 
 ### Pratica
-* https://gist.github.com/netj/8836201
-* https://towardsdatascience.com/how-to-use-python-and-missforest-algorithm-to-impute-missing-data-ed45eb47cb9a
-* https://www.datacamp.com/community/tutorials/random-forests-classifier-python
+* [Dataset iris.csv](https://gist.github.com/netj/8836201)
 * Libro "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent" di Aurélien Géron
-
+#### Alberi di decisione
+* []()
+#### Random Forest
+* [datacamp.com]( https://www.datacamp.com/community/tutorials/random-forests-classifier-python)
+#### MissForest
+* [towardsdatascience.com](https://towardsdatascience.com/how-to-use-python-and-missforest-algorithm-to-impute-missing-data-ed45eb47cb9a)
 
