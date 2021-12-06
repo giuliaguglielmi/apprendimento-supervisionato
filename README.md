@@ -14,6 +14,7 @@
 * https://towardsdatascience.com/missforest-the-best-missing-data-imputation-algorithm-4d01182aed3
 * https://netai.it/cose-un-modello-random-forest/#page-content
 * https://www.lorenzogovoni.com/random-forest/
+* https://it.livingeconomyadvisors.com/1529-what-is-bagging-bootstrap-aggregation
 * https://www.ibm.com/cloud/learn/random-forest
 * Libro "Machine Learning con Python" di Sebastian Raschka 
 
