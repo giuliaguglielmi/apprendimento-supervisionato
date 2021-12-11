@@ -9,6 +9,33 @@
 
 ## References
 
+### Introduzione
+#### Tipologie di apprendimento
+* Libro "Machine Learning con Python" di Sebastian Raschka
+* Data mining - Professoressa Gaito
+* Corso di bioinformatica Unimi - Giorgio Valentini
+
+#### Dataset iris
+* Libro "Machine Learning con Python" di Sebastian Raschka
+
+#### Bias, varianza, overfitting, underfitting
+* Data mining - Professoressa Gaito
+* [andreaminini.com](https://www.andreaminini.com/ai/machine-learning/differenza-tra-overfitting-e-underfitting)
+
+### Alberi di decisione
+#### Introduzione, funzionamento, variabili utilizzate
+* [Wikipedia](https://it.wikipedia.org/wiki/Albero_di_decisione)
+* [andreaminini.com](https://www.andreaminini.com/ai/machine-learning/alberi-di-decisione)
+* [GianlucaTramontana.it](https://www.gianlucatramontana.it/blog/2018/03/lalbero-decisionale-nel-machine-learning/)
+
+#### Costruzione
+* [andreaminini.com](https://www.andreaminini.com/ai/machine-learning/come-costruire-un-albero-decisionale)
+* [AnalitycsSteps.com](https://www.analyticssteps.com/blogs/what-gini-index-and-information-gain-decision-trees)
+
+#### Algoritmi costruzione alberi di decisione
+* [Wikipedia](https://it.wikipedia.org/wiki/Algoritmo_ID3)
+
+
 ### Random Forest
 #### Metodi ensemble
 * [andreaminini.com](https://www.andreaminini.com/ai/machine-learning/ensemble-learning)
@@ -26,7 +53,7 @@
 * [Dataset iris.csv](https://gist.github.com/netj/8836201)
 * Libro "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent" di Aurélien Géron
 #### Alberi di decisione
-* []()
+* Libro "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent" di Aurélien Géron
 #### Random Forest
 * [datacamp.com]( https://www.datacamp.com/community/tutorials/random-forests-classifier-python)
 #### MissForest
