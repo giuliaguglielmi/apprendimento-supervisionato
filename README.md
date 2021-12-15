@@ -5,7 +5,7 @@
 
 📓 [Notebook](Dataset_iris.ipynb) - [Su Colab](https://colab.research.google.com/drive/1bBTwJch3b43DkplsysnazVmwNBcVZXGS?usp=sharing)
 
-📑 [Slide](https://docs.google.com/presentation/d/1fbgGXCka0qJzH9BerrjvNsTtDAaih98kRvwl0rPNcIM/edit?usp=sharing)
+📑 [Slide](https://docs.google.com/presentation/d/170U-ebhEcq1C__I3EcdZ3nZKof1WLG5wOvv2f2Ex20w/edit?usp=sharing)
 
 ## References
 
